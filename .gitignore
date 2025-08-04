@@ -2,7 +2,7 @@
 !README.md
 
 # Ignore main.c
-main.c
+*main.c
 
 # Ignore executables
 *.out
