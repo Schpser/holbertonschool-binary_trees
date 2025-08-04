@@ -1,0 +1,13 @@
+# Don't Ignore README.md
+!README.md
+
+# Ignore main.c
+main.c
+
+# Ignore executables
+*.out
+*.a
+*.exe
+
+# Ignore VSCode files
+.vscode/
