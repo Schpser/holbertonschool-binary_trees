@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_balance - Calculate tree's balance
- * @tree: Pointeto the root
+ * @tree: Pointer to the root
  * 
  * Return: Balance's result
  */
