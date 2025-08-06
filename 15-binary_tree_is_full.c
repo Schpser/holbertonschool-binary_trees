@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_full - Check if a tree is full
  * @tree: Pointer to the root
- * 
+ *
  * Return: 1 if it's full, 0 otherwise
  */
 
